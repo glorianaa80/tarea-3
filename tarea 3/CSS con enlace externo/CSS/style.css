@@ -1,0 +1,33 @@
+h1{
+	color:#f1c40f;
+	font-size: 50px;
+	text-align: center;
+}
+
+h2{
+	color: #9e9d24;
+}
+
+ul{
+	color: red;
+}
+
+.p1{
+	color: #117864;
+}
+
+.p2{
+	color: #CC0099;
+}
+
+.p3{
+	color: #0000CC;
+}
+
+.p4{
+	color: #5e35b1;
+}
+
+.letra{
+	font-family: helvetica;
+}
